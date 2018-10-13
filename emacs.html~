@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Freelancer - Start Bootstrap Theme</title>
+    <title>EMACS</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -31,7 +31,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">FOSS Info</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">EMACS INFO</a>
         <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fas fa-bars"></i>
@@ -55,10 +55,10 @@
     <!-- Header -->
     <header class="masthead bg-primary text-white text-center">
       <div class="container">
-        <img class="img-fluid mb-5 d-block mx-auto" src="img/profile.png" alt="">
-        <h1 class="text-uppercase mb-0">[Name]</h1>
+        <img style="margin-top: 0px;" alt="Image result for emacs logo" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" src="https://c1.staticflickr.com/3/2195/2454018788_9f0935c553_b.jpg" class="irc_mi" height="353" width="353">
+        <h1 class="text-uppercase mb-0">EMACS</h1>
         <hr class="star-light">
-        <h2 class="font-weight-light mb-0">[Description]</h2>
+        <h2 class="font-weight-light mb-0">The eMac, short for education Mac, is an all-in-one Macintosh desktop computer made by Apple Computer, Inc. Released in 2002, it was originally aimed at the education market, but was later made available as a cheaper mass-market alternative to Apple's second-generation LCD iMac G4. The eMac was pulled from retail on October 12, 2005, and was sold exclusively to educational institutions thereafter. It was discontinued by Apple on July 5, 2006, and replaced by a cheaper, low-end iMac that, like the eMac, was originally sold exclusively to educational institutions. </h2>
       </div>
     </header>
 
@@ -75,7 +75,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/cabin.png" alt="">
+              <img style="margin-top: 0px;" alt="Image result for emacs" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" src="https://c1.staticflickr.com/3/2741/5738522164_058b838336_b.jpg" class="irc_mi" height="353" width="520">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -85,7 +85,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/cake.png" alt="">
+            <img style="margin-top: 42px;" alt="Image result for emacs" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" src="https://c1.staticflickr.com/5/4011/4457009838_382885ee5b_b.jpg" class="irc_mi" height="269" width="759">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -95,7 +95,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/circus.png" alt="">
+            <img style="margin-top: 0px;" alt="Related image" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" src="https://ih1.redbubble.net/image.247112782.6597/stf,small,600x600-c,0,0,1000,1000.u1.jpg" class="irc_mi" height="353" width="353">
             </a>
           </div>
         </div>
@@ -109,7 +109,7 @@
         <hr class="star-light mb-5">
         <div class="row">
           <div class="col-lg-4 ml-auto">
-            <p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+            <p class="lead">The eMac design closely resembles the first-generation iMac. Compared to the first iMac, eMacs feature a PowerPC G4 processor that is significantly faster than the previous generation G3 processors, as well as a 17-inch flat CRT display, which was aimed at the education market, as LCD screens would be expensive. Unlike the iMac G3, however, the eMac is not meant to be portable as it weighs 50 lb (23 kg) and lacks a carrying handle.[1]</p>
           </div>
           <div class="col-lg-4 mr-auto">
             <p class="lead">Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
@@ -133,9 +133,9 @@
           <div class="col-lg-8 mx-auto">
             <!-- To configure the links form email address, go to mail/links_me.php and update the email address in the PHP file on line 19. -->
  <ul>
-  <li>Link1</li>
-  <li>Link2</li>
-  <li>Link3</li>
+  <li>https://www.flickr.com/photos/snogglethorpe/2454018788</li>
+  <li>https://www.flickr.com/photos/rore/4457009838</li>
+  <li>https://www.google.com/search?q=emacs&client=ubuntu&hs=bqy&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjDyLulkoPeAhXIvY8KHWRhAvcQ_AUIDigB&biw=1301&bih=673#imgdii=vxojDo9jslOgJM:&imgrc=gyEPlAeAJQ-vOM:</li>
 </ul> 
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
               </div>
