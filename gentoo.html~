@@ -31,7 +31,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Team Alpha-Vimon</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Team Alpha-Vimon Linux Destributions</a>
         <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fas fa-bars"></i>
@@ -85,7 +85,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/Gentoo_Linux_LiveDVD_release_12.1.png" alt="">
+              <img class="img-fluid" src="img/Gentoo_Linux_LiveDVD_release_12.1.png" height="100" width="200" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
