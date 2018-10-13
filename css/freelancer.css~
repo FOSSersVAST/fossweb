@@ -123,10 +123,6 @@ section h2 {
   color: #fff;
 }
 
-img {
-    border-radius: 50%;
-}
-
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
   color: #18BC9C;
 }
