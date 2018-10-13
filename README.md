@@ -1,7 +1,7 @@
 # fossweb
 FOSS Infomation Website from VAST
 Team Members
-[Mohammed Shafi]-Zodel Wa
+[Mohammed Shafi]-Todd Weaver
 [Aishwarya]-karen sandler
 [Vijina]-alexander
 [Shyam]-mark shuttleworth
