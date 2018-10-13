@@ -75,7 +75,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/cabin.png" alt="">
+              <img class="img-fluid" src="/home/staffubuntu/Pictures/1j" alt=""> 
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -85,7 +85,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/cake.png" alt="">
+              <img class="img-fluid" src="/home/staffubuntu/Pictures/2j" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -95,9 +95,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="/home/staffubuntu/Pictures/1j" alt="">
-             <img class="img-fluid" src="/home/staffubuntu/Pictures/2j" alt="">
-             <img class="img-fluid" src="/home/staffubuntu/Pictures/3j" alt="">
+              <img class="img-fluid" src="/home/staffubuntu/Pictures/3j" alt="">
             </a>
           </div>
         </div>
