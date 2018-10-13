@@ -1,7 +1,7 @@
 # fossweb
 FOSS Infomation Website from VAST
 Team Members
-[Mohammed Shafi]
+[Mohammed Shafi] 
 [Aishwarya]
 [Vijina]
 [Shyam]
@@ -12,3 +12,5 @@ Team Members
 [Amal]
 [Vinay]
 [Subaka]
+**Topic**
+```PERSONALITIES```
