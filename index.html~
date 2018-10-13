@@ -113,9 +113,7 @@ _white.svg.png" alt="">
             <p class="lead">GNU was launched by Richard Stallman (rms) in 1983, as an operating system which would be put together by people working together for the freedom of all software users to control their computing. rms remains the Chief GNUisance today.GNU has been supported in several ways by the Free Software Foundation, the nonprofit organization also founded by rms to advocate free software ideals.The primary and continuing goal of GNU is to offer a Unix-compatible system that would be 100% free software. Not 95% free, not 99.5%, but 100%.The ultimate goal is to provide free software to do all of the jobs computer users want to do—and thus make proprietary software a thing of the past.</p>
           </div>
           <div class="col-lg-4 mr-auto">
-            <p class="lead">
-
-The program in a Unix-like system that allocates machine resources and talks to the hardware is called the “kernel”. GNU is typically used with a kernel called Linux. This combination is the GNU/Linux operating system. GNU/Linux is used by millions, though many call it “Linux” by mistake.</p>
+            <p class="lead">Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
           </div>
         </div>
         <div class="text-center mt-4">
