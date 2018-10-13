@@ -31,7 +31,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">FOSS Info</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">TEAM ALPHA_GANAPATHY MH</a>
         <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fas fa-bars"></i>
@@ -85,7 +85,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/images.jpeg" alt="">
+              <img class="img-fluid" src="img/ArchLinux-Screenshot.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -134,7 +134,8 @@
             <!-- To configure the links form email address, go to mail/links_me.php and update the email address in the PHP file on line 19. -->
  
  <a href="https://en.wikipedia.org/wiki/Arch_Linux">https://en.wikipedia.org/wiki/Arch_Linux</a><br>
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/768px-Archlinux-icon-crystal-64.svg.png">https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/768px-Archlinux-icon-crystal-64.svg.png</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/768px-Archlinux-icon-crystal-64.svg.png">https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/768px-Archlinux-icon-crystal-64.svg.png</a><br>
+<a href="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwij-uebkYPeAhXUbX0KHRuBAvoQjRx6BAgBEAU&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AArchLinux-Screenshot.png&psig=AOvVaw1quXghkRl6WEIszt0ByUyr&ust=1539509114307470">https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwij-uebkYPeAhXUbX0KHRuBAvoQjRx6BAgBEAU&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AArchLinux-Screenshot.png&psig=AOvVaw1quXghkRl6WEIszt0ByUyr&ust=1539509114307470</a>
  
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
               </div>
