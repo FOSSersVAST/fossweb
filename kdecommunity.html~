@@ -142,9 +142,9 @@
           <div class="col-lg-8 mx-auto">
             <!-- To configure the links form email address, go to mail/links_me.php and update the email address in the PHP file on line 19. -->
  <ul>
-  <li>https://en.wikipedia.org/wiki/File:Matthias_Ettrich_LinuxTag_2005-06-23.jpg</li>
-  <li>https://en.wikipedia.org/wiki/File:KDE_Mascot_Konqi_by_Tyson_Tan.png</li>
-  <li>https://upload.wikimedia.org/wikipedia/commons/e/ec/Akademy_2008_logo.png</li>
+  <li><a href="https://en.wikipedia.org/wiki/File:Matthias_Ettrich_LinuxTag_2005-06-23.jpg">photo of mattias ettrich</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/File:KDE_Mascot_Konqi_by_Tyson_Tan.png">photo of mascot</a></li>
+  <li><a href="https://upload.wikimedia.org/wikipedia/commons/e/ec/Akademy_2008_logo.png"></a></li>
   <li>https://en.wikipedia.org/wiki/KDE</li>
 </ul> 
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
@@ -184,9 +184,9 @@
               <h2 class="text-secondary text-uppercase mb-0"> Matthias Ettrich,</h2>
               <hr class="star-dark mb-5">
               <img class="img-fluid mb-5" src="img/portfolio/cabin.png" alt="">
-              <p class="mb-5">K Desktop Environment (KDE) was founded in 1996 by Matthias Ettrich, who was then a student at the Eberhard Karls University of Tübingen. At the time, he was troubled by certain aspects of the Unix desktop. Among his concerns was that none of the applications looked, felt, or worked alike. He proposed the creation of not merely a set of applications but a desktop environment in which users could expect things to look, feel, and work consistently. He also wanted to make this desktop easy to use; one of his complaints about desktop applications of the time was that it is too complicated for end users. His initial Usenet post spurred a lot of interest, and the KDE project was born.[8]
+              <p class="mb-5">K Desktop Environment (KDE) was founded in 1996 by Matthias Ettrich, who was then a student at the Eberhard Karls University of Tübingen. At the time, he was troubled by certain aspects of the Unix desktop. Among his concerns was that none of the applications looked, felt, or worked alike. He proposed the creation of not merely a set of applications but a desktop environment in which users could expect things to look, feel, and work consistently. He also wanted to make this desktop easy to use; one of his complaints about desktop applications of the time was that it is too complicated for end users. His initial Usenet post spurred a lot of interest, and the KDE project was born.
 
-The name KDE was intended as a wordplay on the existing Common Desktop Environment, available for Unix systems. CDE was an X11-based user environment jointly developed by HP, IBM, and Sun through the X/Open consortium, with an interface and productivity tools based on the Motif graphical widget toolkit. It was supposed to be an intuitively easy-to-use desktop computer environment.[9] The K was originally suggested to stand for "Kool", but it was quickly decided that the K should stand for nothing in particular. Therefore, the KDE initialism expanded to "K Desktop Environment" before it was dropped altogether in favor of KDE = Community due to the rebranding effort.</p>
+The name KDE was intended as a wordplay on the existing Common Desktop Environment, available for Unix systems. CDE was an X11-based user environment jointly developed by HP, IBM, and Sun through the X/Open consortium, with an interface and productivity tools based on the Motif graphical widget toolkit. It was supposed to be an intuitively easy-to-use desktop computer environment. The K was originally suggested to stand for "Kool", but it was quickly decided that the K should stand for nothing in particular. Therefore, the KDE initialism expanded to "K Desktop Environment" before it was dropped altogether in favor of KDE = Community due to the rebranding effort.</p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
                 Close Project</a>
@@ -205,10 +205,10 @@ The name KDE was intended as a wordplay on the existing Common Desktop Environme
         <div class="container text-center">
           <div class="row">
             <div class="col-lg-8 mx-auto">
-              <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+              <h2 class="text-secondary text-uppercase mb-0">Mascot</h2>
               <hr class="star-dark mb-5">
               <img class="img-fluid mb-5" src="img/portfolio/cake.png" alt="">
-              <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+              <p class="mb-5">The KDE community’s mascot is a green dragon named Konqi.Konqi has a girlfriend named Katie. Konqi and Katie made their costumed appearance at the KDE 4.0 Release Event and Camp KDE 2010. Konqi also appears on the KDE software's about dialog. Kandalf the wizard was the former mascot for the KDE community during its 1.x and 2.x versions, but he was dropped owing to copyright issues (his resemblance to Gandalf). Konqi's appearance was officially redesigned with the coming of Plasma 5, with Tyson Tan's entry (seen on the right) winning the redesign competition on the KDE Forums.
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
                 Close Project</a>
@@ -227,10 +227,14 @@ The name KDE was intended as a wordplay on the existing Common Desktop Environme
         <div class="container text-center">
           <div class="row">
             <div class="col-lg-8 mx-auto">
-              <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+              <h2 class="text-secondary text-uppercase mb-0">Akademy</h2>
               <hr class="star-dark mb-5">
               <img class="img-fluid mb-5" src="img/portfolio/circus.png" alt="">
-              <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+              <p class="mb-5">Akademy is the annual world summit, held each summer at varying venues in Europe.[61] The primary goals of Akademy are to act as a community building event, to communicate the achievements of community, and to provide a platform for collaboration with community and industry partners. Secondary goals are to engage local people, and to provide space for getting together to write code. KDE e.V. assist with procedures, advice and organization. Akademy including conference, KDE e.V. general assembly, marathon coding sessions, BOFs (birds of a feather sessions) and social program. BOFs are meet to discuss specific sub-projects or issues.[62]
+
+The KDE community held KDE One that was first conference in Arnsberg, Germany in 1997 to discuss the first KDE release. Initially, each conference was numbered after the release, and not regular held. Since 2003 the conferences were held once a year. And they were named Akademy since 2004.
+
+The yearly Akademy conference gives Akademy Awards, are awards that the KDE community gives to KDE contributors. Their purpose is to recognize outstanding contribution to KDE. There are three awards, best application, best non-application and jury's award. As always the winners are chosen by the winners from the previous year.[63] First winners received a framed picture of Konqi signed by all attending KDE developers.</p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
                 Close Project</a>
