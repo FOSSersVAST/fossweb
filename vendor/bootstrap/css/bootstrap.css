@@ -8853,6 +8853,10 @@ button.bg-dark:focus {
   color: #fff !important;
 }
 
+.text-black {
+  color: #000 !important;
+}
+
 .text-primary {
   color: #007bff !important;
 }
