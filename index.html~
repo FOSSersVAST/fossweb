@@ -53,12 +53,13 @@
     </nav>
 
     <!-- Header -->
-    <header class="masthead bg-primary text-white text-center" style="background-color:#4290d1 !important;">
+    <header class="masthead bg-primary text-white text-center">
       <div class="container">
-        <img class="img-fluid mb-5 d-block mx-auto" src="img/gitg.png" alt="">
-        <h1 class="text-uppercase mb-0">Gitg</h1>
-        <hr class="star-light" style="background-color:#4290d1 !important;">
-        <h2 class="font-weight-light mb-0">gitg is the GNOME GUI client to view git repositories. </h2>
+        <img class="img-fluid mb-5 d-block mx-auto" src="img/GNU
+_white.svg.png" alt="">
+        <h1 class="text-uppercase mb-0">GNU</h1>
+        <hr class="star-light">
+        <h2 class="font-weight-light mb-0">GNU  is an operating system and an extensive collection of computer software.GNU is composed wholly of free software, most of which is licensed under the GNU Project's own General Public License (GPL).Richard Stallman, the founder of the project, views GNU as a "technical means to a social end". </h2>
       </div>
     </header>
 
@@ -75,7 +76,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/gitg1.png" alt="">
+              <img class="img-fluid" src="img/portfolio/winkler-gnu.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -85,7 +86,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/gitg2.png" alt="">
+              <img class="img-fluid" src="img/portfolio/gnu_hornedword.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -95,7 +96,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/gitg3.png" alt="">
+              <img class="img-fluid" src="img/portfolio/GNU-OS-1920x1080.jpg" alt="">
             </a>
           </div>
         </div>
@@ -109,16 +110,18 @@
         <hr class="star-light mb-5">
         <div class="row">
           <div class="col-lg-4 ml-auto">
-            <p class="lead">gitg is developed by Developers    Jesse Van Den Kieboom,     Ignacio Casal Quintero,     Paolo Borelli</p>
+            <p class="lead">GNU was launched by Richard Stallman (rms) in 1983, as an operating system which would be put together by people working together for the freedom of all software users to control their computing. rms remains the Chief GNUisance today.GNU has been supported in several ways by the Free Software Foundation, the nonprofit organization also founded by rms to advocate free software ideals.The primary and continuing goal of GNU is to offer a Unix-compatible system that would be 100% free software. Not 95% free, not 99.5%, but 100%.The ultimate goal is to provide free software to do all of the jobs computer users want to do—and thus make proprietary software a thing of the past.</p>
           </div>
           <div class="col-lg-4 mr-auto">
-            <p class="lead">Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+            <p class="lead">
+
+The program in a Unix-like system that allocates machine resources and talks to the hardware is called the “kernel”. GNU is typically used with a kernel called Linux. This combination is the GNU/Linux operating system. GNU/Linux is used by millions, though many call it “Linux” by mistake.</p>
           </div>
         </div>
         <div class="text-center mt-4">
           <a class="btn btn-xl btn-outline-light" href="#">
             <i class="fas fa-download mr-2"></i>
-            Link to the website
+            Link to theit site 
           </a>
         </div>
       </div>
@@ -133,9 +136,9 @@
           <div class="col-lg-8 mx-auto">
             <!-- To configure the links form email address, go to mail/links_me.php and update the email address in the PHP file on line 19. -->
  <ul>
-  <li><a href="https://wiki.gnome.org/Apps/Gitg">Official Website</a></li>
-  <li><a href="https://gnome.org">GNOME Website</a></li>
-  <li><a href="https://gitlab.gnome.org/GNOME/gitg/">Gitg Sourcode</a></li>
+  <li>http://one-tree.org/emacs/gnu_os/</li>
+  <li>https://www.gnu.org/graphics/gnuhornedlogo.html</li>
+  <li>Link3</li>
 </ul> 
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
               </div>

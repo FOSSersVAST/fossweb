@@ -53,12 +53,12 @@
     </nav>
 
     <!-- Header -->
-    <header class="masthead bg-primary text-white text-center" style="background-color:#4290d1 !important;">
+    <header class="masthead bg-primary text-white text-center">
       <div class="container">
-        <img class="img-fluid mb-5 d-block mx-auto" src="img/gitg.png" alt="">
-        <h1 class="text-uppercase mb-0">Gitg</h1>
-        <hr class="star-light" style="background-color:#4290d1 !important;">
-        <h2 class="font-weight-light mb-0">gitg is the GNOME GUI client to view git repositories. </h2>
+        <img class="img-fluid mb-5 d-block mx-auto" src="img/profile.png" alt="">
+        <h1 class="text-uppercase mb-0">[]</h1>
+        <hr class="star-light">
+        <h2 class="font-weight-light mb-0">[KDE is an international free software community[1] that develops Free and Open Source based software. Well-known products include the Plasma Desktop, KDE Frameworks and a range of cross-platform applications designed to run on Unix-like desktops, Microsoft Windows and Android. It further provides tools and documentation for developers that enables them to write software.]</h2>
       </div>
     </header>
 
@@ -75,7 +75,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/gitg1.png" alt="">
+              <img class="img-fluid" src="img/portfolio/cabin.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -85,7 +85,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/gitg2.png" alt="">
+              <img class="img-fluid" src="img/portfolio/cake.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -95,7 +95,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/gitg3.png" alt="">
+              <img class="img-fluid" src="img/portfolio/circus.png" alt="">
             </a>
           </div>
         </div>
@@ -109,7 +109,7 @@
         <hr class="star-light mb-5">
         <div class="row">
           <div class="col-lg-4 ml-auto">
-            <p class="lead">gitg is developed by Developers    Jesse Van Den Kieboom,     Ignacio Casal Quintero,     Paolo Borelli</p>
+            <p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
           </div>
           <div class="col-lg-4 mr-auto">
             <p class="lead">Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
@@ -118,7 +118,7 @@
         <div class="text-center mt-4">
           <a class="btn btn-xl btn-outline-light" href="#">
             <i class="fas fa-download mr-2"></i>
-            Link to the website
+            Link to theit site 
           </a>
         </div>
       </div>
@@ -133,9 +133,9 @@
           <div class="col-lg-8 mx-auto">
             <!-- To configure the links form email address, go to mail/links_me.php and update the email address in the PHP file on line 19. -->
  <ul>
-  <li><a href="https://wiki.gnome.org/Apps/Gitg">Official Website</a></li>
-  <li><a href="https://gnome.org">GNOME Website</a></li>
-  <li><a href="https://gitlab.gnome.org/GNOME/gitg/">Gitg Sourcode</a></li>
+  <li>Link1</li>
+  <li>Link2</li>
+  <li>Link3</li>
 </ul> 
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
               </div>
