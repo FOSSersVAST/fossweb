@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>FOSS INFO: Debian</title>
+    <title>Freelancer - Start Bootstrap Theme</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -55,10 +55,11 @@
     <!-- Header -->
     <header class="masthead bg-primary text-white text-center">
       <div class="container">
-        <img class="img-fluid mb-5 d-block mx-auto" src="img/profile.png" alt="">
-        <h1 class="text-uppercase mb-0">[Debian]</h1>
+        <img class="img-fluid mb-5 d-block mx-auto" src="img/GNU
+_white.svg.png" alt="">
+        <h1 class="text-uppercase mb-0">GNU</h1>
         <hr class="star-light">
-        <h2 class="font-weight-light mb-0">[Linux Distro]</h2>
+        <h2 class="font-weight-light mb-0">GNU  is an operating system and an extensive collection of computer software.GNU is composed wholly of free software, most of which is licensed under the GNU Project's own General Public License (GPL).Richard Stallman, the founder of the project, views GNU as a "technical means to a social end". </h2>
       </div>
     </header>
 
@@ -75,7 +76,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/deb1.png" alt="">
+              <img class="img-fluid" src="img/portfolio/winkler-gnu.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -85,7 +86,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/deb2.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/gnu_hornedword.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -95,7 +96,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/deb3.jpeg" alt="">
+              <img class="img-fluid" src="img/portfolio/GNU-OS-1920x1080.jpg" alt="">
             </a>
           </div>
         </div>
@@ -109,10 +110,12 @@
         <hr class="star-light mb-5">
         <div class="row">
           <div class="col-lg-4 ml-auto">
-            <p class="lead">Debian is a Unix-like operating system composed entirely of free software packaged by a team of volunteers.</p>
+            <p class="lead">GNU was launched by Richard Stallman (rms) in 1983, as an operating system which would be put together by people working together for the freedom of all software users to control their computing. rms remains the Chief GNUisance today.GNU has been supported in several ways by the Free Software Foundation, the nonprofit organization also founded by rms to advocate free software ideals.The primary and continuing goal of GNU is to offer a Unix-compatible system that would be 100% free software. Not 95% free, not 99.5%, but 100%.The ultimate goal is to provide free software to do all of the jobs computer users want to do—and thus make proprietary software a thing of the past.</p>
           </div>
           <div class="col-lg-4 mr-auto">
-            <p class="lead">The Debian Project was started by Ian Murdock on August 16,1993</p>
+            <p class="lead">
+
+The program in a Unix-like system that allocates machine resources and talks to the hardware is called the “kernel”. GNU is typically used with a kernel called Linux. This combination is the GNU/Linux operating system. GNU/Linux is used by millions, though many call it “Linux” by mistake.</p>
           </div>
         </div>
         <div class="text-center mt-4">
@@ -133,8 +136,8 @@
           <div class="col-lg-8 mx-auto">
             <!-- To configure the links form email address, go to mail/links_me.php and update the email address in the PHP file on line 19. -->
  <ul>
-  <li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/2000px-Debian-OpenLogo.svg.png">Debian</a></li>
-  <li><a href="https://wiki.debian.org/FrontPage?action=AttachFile&do=get&target=softWaves_wiki_banner_v3.png"></li>
+  <li>http://one-tree.org/emacs/gnu_os/</li>
+  <li>https://www.gnu.org/graphics/gnuhornedlogo.html</li>
   <li>Link3</li>
 </ul> 
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
@@ -173,7 +176,7 @@
             <div class="col-lg-8 mx-auto">
               <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="deb1 .png" alt="">
+              <img class="img-fluid mb-5" src="img/portfolio/cabin.png" alt="">
               <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
@@ -195,7 +198,7 @@
             <div class="col-lg-8 mx-auto">
               <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="img/deb1.png" alt="">
+              <img class="img-fluid mb-5" src="img/portfolio/cake.png" alt="">
               <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>

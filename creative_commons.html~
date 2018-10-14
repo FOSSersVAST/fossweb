@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>FOSS INFO: Debian</title>
+    <title>Freelancer - Start Bootstrap Theme</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -56,9 +56,9 @@
     <header class="masthead bg-primary text-white text-center">
       <div class="container">
         <img class="img-fluid mb-5 d-block mx-auto" src="img/profile.png" alt="">
-        <h1 class="text-uppercase mb-0">[Debian]</h1>
+        <h1 class="text-uppercase mb-0">[Name]</h1>
         <hr class="star-light">
-        <h2 class="font-weight-light mb-0">[Linux Distro]</h2>
+        <h2 class="font-weight-light mb-0">[Description]</h2>
       </div>
     </header>
 
@@ -75,7 +75,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/deb1.png" alt="">
+              <img class="img-fluid" src="img/portfolio/cabin.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -85,7 +85,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/deb2.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/cake.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -95,7 +95,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/deb3.jpeg" alt="">
+              <img class="img-fluid" src="img/Logo.png" alt="">
             </a>
           </div>
         </div>
@@ -109,10 +109,10 @@
         <hr class="star-light mb-5">
         <div class="row">
           <div class="col-lg-4 ml-auto">
-            <p class="lead">Debian is a Unix-like operating system composed entirely of free software packaged by a team of volunteers.</p>
+            <p class="lead">Creative Commons (CC) is an American non-profit organization devoted to expanding the range of creative works available for others to build upon legally and to share.The organization has released several copyright-licenses known as Creative Commons licenses free of charge to the public.</p>
           </div>
           <div class="col-lg-4 mr-auto">
-            <p class="lead">The Debian Project was started by Ian Murdock on August 16,1993</p>
+            <p class="lead">These licenses allow creators to communicate which rights they reserve, and which rights they waive for the benefit of recipients or other creators.An easy-to-understand one-page explanation of rights, with associated visual symbols, explains the specifics of each Creative Commons license. </p>
           </div>
         </div>
         <div class="text-center mt-4">
@@ -133,8 +133,8 @@
           <div class="col-lg-8 mx-auto">
             <!-- To configure the links form email address, go to mail/links_me.php and update the email address in the PHP file on line 19. -->
  <ul>
-  <li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/2000px-Debian-OpenLogo.svg.png">Debian</a></li>
-  <li><a href="https://wiki.debian.org/FrontPage?action=AttachFile&do=get&target=softWaves_wiki_banner_v3.png"></li>
+  <li>Link1</li>
+  <li>Link2</li>
   <li>Link3</li>
 </ul> 
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
@@ -173,7 +173,7 @@
             <div class="col-lg-8 mx-auto">
               <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="deb1 .png" alt="">
+              <img class="img-fluid mb-5" src="img/portfolio/cabin.png" alt="">
               <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
@@ -195,7 +195,7 @@
             <div class="col-lg-8 mx-auto">
               <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="img/deb1.png" alt="">
+              <img class="img-fluid mb-5" src="img/portfolio/cake.png" alt="">
               <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>

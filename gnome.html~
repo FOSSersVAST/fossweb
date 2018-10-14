@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>FOSS INFO: Debian</title>
+    <title>Freelancer - Start Bootstrap Theme</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -55,10 +55,10 @@
     <!-- Header -->
     <header class="masthead bg-primary text-white text-center">
       <div class="container">
-        <img class="img-fluid mb-5 d-block mx-auto" src="img/profile.png" alt="">
-        <h1 class="text-uppercase mb-0">[Debian]</h1>
+        <img class="img-fluid mb-5 d-block mx-auto" src="img/logo.png" width=256 height=256 alt="">
+        <h1 class="text-uppercase mb-0">Gnome</h1>
         <hr class="star-light">
-        <h2 class="font-weight-light mb-0">[Linux Distro]</h2>
+        <h2 class="font-weight-light mb-0">We promote software freedom</h2>
       </div>
     </header>
 
@@ -75,7 +75,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/deb1.png" alt="">
+              <img class="img-fluid" src="img/portfolio/page.png"  alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -85,7 +85,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/deb2.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/Gnome_foundation.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -95,7 +95,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/deb3.jpeg" alt="">
+              <img class="img-fluid" src="img/portfolio/pic1.jpg"  alt="">
             </a>
           </div>
         </div>
@@ -109,10 +109,31 @@
         <hr class="star-light mb-5">
         <div class="row">
           <div class="col-lg-4 ml-auto">
-            <p class="lead">Debian is a Unix-like operating system composed entirely of free software packaged by a team of volunteers.</p>
+            <p class="lead">
+<h1>Independent</h1>
+
+GNOME is led by the non-profit GNOME Foundation. Our board is democratically elected, and technical decisions are made by the engineers doing the work. We are supported by many organizations; employees from over a hundred companies have contributed since the project began.
+<br />
+
+<h1>Connected</h1>
+
+Our project is an important part of the Free Software ecosystem. We work with other free projects to create high-quality solutions that span the entire software stack.
+
+</p>
           </div>
           <div class="col-lg-4 mr-auto">
-            <p class="lead">The Debian Project was started by Ian Murdock on August 16,1993</p>
+            <p class="lead">
+<h1>Free</h1>
+
+We believe that software should be developed in the open. Our development infrastructure and communication channels are public, and our code can be freely downloaded, modified and shared with others. All our contributors have the same rights.
+<br />
+
+<h1>People-focused</h1>
+
+Our software is translated into many languages and comes with built in accessibility features. This means that it can be used by anyone, regardless of the language they speak or their physical abilities.
+
+
+</p>
           </div>
         </div>
         <div class="text-center mt-4">
@@ -133,9 +154,9 @@
           <div class="col-lg-8 mx-auto">
             <!-- To configure the links form email address, go to mail/links_me.php and update the email address in the PHP file on line 19. -->
  <ul>
-  <li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/2000px-Debian-OpenLogo.svg.png">Debian</a></li>
-  <li><a href="https://wiki.debian.org/FrontPage?action=AttachFile&do=get&target=softWaves_wiki_banner_v3.png"></li>
-  <li>Link3</li>
+  <li><a href="https://www.gnome.org/foundation/">Gnome Foundation</li>
+  <li><a href="https://www.linuxvoice.com/inside-the-gnome-foundation/">Linuxvoice</li>
+  <li><a href="https://en.wikipedia.org/wiki/GNOME_Foundation">wikipedia</li>
 </ul> 
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
               </div>
@@ -173,8 +194,8 @@
             <div class="col-lg-8 mx-auto">
               <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="deb1 .png" alt="">
-              <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+              <img class="img-fluid mb-5" src="img/portfolio/page.png"  alt="">
+              <p class="mb-5">The GNOME Foundation is a non-profit organization that furthers the goals of the GNOME Project, helping it to create a free software computing platform for the general public that is designed to be elegant, efficient, and easy to use.</p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
                 Close Project</a>
@@ -195,8 +216,9 @@
             <div class="col-lg-8 mx-auto">
               <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="img/deb1.png" alt="">
-              <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+              <img class="img-fluid mb-5" src="img/portfolio/Gnome_foundation.png" alt="">
+              <p class="mb-5">GNOME brings companies, volunteers, professionals and non-profits together from around the world. We make GNOME 3: a complete free software solution for everyone.
+</p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
                 Close Project</a>
@@ -217,7 +239,7 @@
             <div class="col-lg-8 mx-auto">
               <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="img/portfolio/circus.png" alt="">
+              <img class="img-fluid mb-5" src="img/portfolio/pic1.jpg" alt="">
               <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
