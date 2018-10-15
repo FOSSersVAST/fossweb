@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Freelancer - Start Bootstrap Theme</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom styles for this template -->
+    <link href="css/freelancer.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">FOSS Info</a>
+        <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Images</a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">About</a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#links">Links</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="masthead bg-primary text-white text-center">
+      <div class="container">
+        <img class="img-fluid mb-5 d-block mx-auto" src="img/Jimmy.jpg" alt="" height="15%" width="15%" style="border-radius: 50%">
+
+        <h1 class="text-uppercase mb-0">Jimmy Wales</h1>
+        <hr class="star-light">
+        <h2 class="font-weight-light mb-0">U.S. Internet entrepreneur, wiki pioneer and one of the founders of Wikipedia. </h2>
+      </div>
+    </header>
+
+    <!-- Portfolio Grid Section -->
+    <section class="portfolio" id="portfolio">
+      <div class="container">
+        <h2 class="text-center text-uppercase text-secondary mb-0">Associated Projects</h2>
+        <hr class="star-dark mb-5">
+        <div class="row">
+          <div class="col-md-6 col-lg-4">
+            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-1">
+              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                  <i class="fas fa-search-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bomis-staff-summer-2000.jpg/800px-Bomis-staff-summer-2000.jpg" alt="">
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-2">
+              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                  <i class="fas fa-search-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Wm2007_press_002.jpg" alt="">
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-3">
+              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                  <i class="fas fa-search-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Wikipedia-logo-en-big.png" alt="" >
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="bg-primary text-white mb-0" id="about">
+      <div class="container">
+        <h2 class="text-center text-uppercase text-white">About</h2>
+        <hr class="star-light mb-5">
+        <div class="row">
+          <div class="col-lg-4 ml-auto">
+            <p class="lead">Jimmy Donal "Jimbo" Wales (born August 7, 1966) is an American Internet entrepreneur, best known as a co-founder of Wikipedia and Wikia. Wales was born in Huntsville, Alabama, United States. There, he went to Randolph School. He then earned bachelor’s and master’s degrees in finance. In 1996, he and two partners founded Bomis. Bomis was an Internet portal with entertainment and adult content. The company gave money for Nupedia (2000–2003) and, after that, Wikipedia.</p>
+          </div>
+          <div class="col-lg-4 mr-auto">
+            <p class="lead">On January 15, 2001, with Larry Sanger and others, Wales launched Wikipedia. Wikipedia was and still is a free, open content encyclopedia. It grew and became popular very quickly. As Wikipedia became known to the public, he became the project’s promoter and spokesperson. He is often called a co-founder of Wikipedia, though he has argued the "co-" part. He said he was the only founder. Wales is on the Board of Trustees of the Wikimedia Foundation. In 2004, he co-founded Wikia, a wiki-hosting service which tries to make money. In 2015, Wales started the Jimmy Wales Foundation for freedom of expression, to try to help bloggers or internet activists who are in prison.</p>
+          </div>
+        </div>
+        <div class="text-center mt-4">
+          <a class="btn btn-xl btn-outline-light" href="https://simple.wikipedia.org/wiki/Jimmy_Wales">
+            <i class="fas fa-download mr-2"></i>
+            Know more
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Links Section -->
+    <section id="links">
+      <div class="container">
+        <h2 class="text-center text-uppercase text-secondary mb-0">Bibliography</h2>
+        <hr class="star-dark mb-5">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <!-- To configure the links form email address, go to mail/links_me.php and update the email address in the PHP file on line 19. -->
+ <ul>
+  <li>https://en.wikipedia.org/wiki/Jimmy_Wales</li>
+  <li>https://commons.wikimedia.org/wiki/File:Bomis-staff-summer-2000.jpg</li>
+  <li>https://commons.wikimedia.org/wiki/File:Wm2007_press_002.jpg</li>
+<li>https://upload.wikimedia.org/wikipedia/commons/5/53/Wikipedia-logo-en-big.png</li>
+</ul> 
+            <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+
+    <div class="copyright py-4 text-center text-white">
+      <div class="container">
+        <small>Every content in this page can be copied and shared.</small>
+      </div>
+    </div>
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+    <div class="scroll-to-top d-lg-none position-fixed ">
+      <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top">
+        <i class="fa fa-chevron-up"></i>
+      </a>
+    </div>
+
+    <!-- Portfolio Modals -->
+
+    <!-- Portfolio Modal 1 -->
+    <div class="portfolio-modal mfp-hide" id="portfolio-modal-1">
+      <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+          <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <h2 class="text-secondary text-uppercase mb-0">Chicago Options Associates and Bomis</h2>
+              <hr class="star-dark mb-5">
+              <img class="img-fluid mb-5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bomis-staff-summer-2000.jpg/800px-Bomis-staff-summer-2000.jpg" alt="">
+              <p class="mb-5">In 1994, Wales took a job with Chicago Options Associates, a futures and options trading firm in Chicago, Illinois.[19][25][26] Wales has described himself as having been addicted to the Internet from an early stage and he wrote computer code during his leisure time. During his studies in Alabama, he had become an obsessive player of Multi-User Dungeons (MUDs)—a type of virtual role-playing game—and thereby experienced the potential of computer networks to foster large-scale collaborative projects.[24][27]
+
+Inspired by the remarkably successful initial public offering of Netscape in 1995, and having accumulated capital through "speculating on interest-rate and foreign-currency fluctuations",[16] Wales decided to leave the realm of financial trading and became an Internet entrepreneur.[24] In 1996, he and two partners founded Bomis,[16][28] a web portal featuring user-generated webrings and, for a time, erotic photographs.[29] Wales described it as a "guy-oriented search engine" with a market similar to that of Maxim magazine;[17][19][30] the Bomis venture did not ultimately turn out to be successful.</p>
+              <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                <i class="fa fa-close"></i>
+                Close Project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Portfolio Modal 2 -->
+    <div class="portfolio-modal mfp-hide" id="portfolio-modal-2">
+      <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+          <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <h2 class="text-secondary text-uppercase mb-0">Wikimedia Foundation</h2>
+              <hr class="star-dark mb-5">
+              <img class="img-fluid mb-5" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Wm2007_press_002.jpg" alt="" height="45%" width="45%">
+              <p class="mb-5">In mid-2003, Wales set up the Wikimedia Foundation (WMF), a non-profit organization founded in St. Petersburg, Florida and later headquartered in San Francisco, California. All intellectual property rights and domain names pertaining to Wikipedia were moved to the new foundation, whose purpose is to establish general policy for the encyclopedia and its sister projects. Wales has been a member of the Wikimedia Foundation's Board of Trustees since it was formed and was its official chairman from 2003 through 2006. Since 2006 he has been accorded the honorary title of chairman emeritus and holds the board-appointed "community founder's seat" that was installed in 2008. His work for the foundation, including his appearances to promote it at computer and educational conferences, has always been unpaid. Wales has often joked that donating Wikipedia to the foundation was both the "dumbest and the smartest" thing he had done. On one hand, he estimated that Wikipedia was worth US$3 billion; on the other, he weighed his belief that the donation made its success possible.
+
+Wales gives an annual "State of the Wiki" address at the Wikimania conference.</p>
+              <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                <i class="fa fa-close"></i>
+                Close Project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Portfolio Modal 3 -->
+    <div class="portfolio-modal mfp-hide" id="portfolio-modal-3">
+      <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+          <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <h2 class="text-secondary text-uppercase mb-0">Wikipedia</h2>
+              <hr class="star-dark mb-5">
+              <img class="img-fluid mb-5" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Wikipedia-logo-en-big.png" alt="" height="40%" width="40%">
+              <p class="mb-5">Originally, Bomis planned to make Wikipedia a profitable business.[39] Sanger initially saw Wikipedia primarily as a tool to aid Nupedia development. Wales feared that, at worst, it might produce "complete rubbish".[26] To the surprise of Sanger and Wales, within a few days of launching, the number of articles on Wikipedia had outgrown that of Nupedia, and a small collective of editors had formed.[25][27] It was Jimmy Wales, along with other people, who came up with the broader idea of an open-source, collaborative encyclopedia that would accept contributions from ordinary people.[40] Initially, neither Sanger nor Wales knew what to expect from the Wikipedia initiative.[26][27] Many of the early contributors to the site were familiar with the model of the free culture movement, and, like Wales, many of them sympathized with the open-source movement.</p>
+              <a class="btn btn-xl btn-outline-light" href="https://en.wikipedia.org/wiki/Main_Page">
+                <i class="fa fa-close"></i>
+                Go to Wiki</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Links Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/links_me.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/freelancer.min.js"></script>
+
+  </body>
+
+</html>
