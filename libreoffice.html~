@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Freelancer - Start Bootstrap Theme</title>
+    <title>LibreOffice Theme</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -55,10 +55,10 @@
     <!-- Header -->
     <header class="masthead bg-primary text-white text-center">
       <div class="container">
-        <img class="img-fluid mb-5 d-block mx-auto" src="img/gnome-logo3.png" alt="">
-        <h1 class="text-uppercase mb-0">GNOME</h1>
+        <img class="img-fluid mb-5 d-block mx-auto" src="img/logo.png" alt="">
+        <h1 class="text-uppercase mb-0">LibreOffice</h1>
         <hr class="star-light">
-        <h2 class="font-weight-light mb-0">GNU Network Object Model Environment</h2>
+        <h2 class="font-weight-light mb-0">Download free office suite - download LibreOffice for Windows, macOS (Mac OS X), Linux. Originally based on OpenOffice.org.</h2>
       </div>
     </header>
 
@@ -75,7 +75,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/act1.png" alt="">
+              <img class="img-fluid" src="img/portfolio/libreoffice_writter.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -85,7 +85,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/act2.png" alt="">
+              <img class="img-fluid" src="img/portfolio/libreoffice_calc.jpeg" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -95,7 +95,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/act3.png" alt="">
+              <img class="img-fluid" src="img/portfolio/libreoffice_impress.png" alt="">
             </a>
           </div>
         </div>
@@ -109,16 +109,16 @@
         <hr class="star-light mb-5">
         <div class="row">
           <div class="col-lg-4 ml-auto">
-            <p class="lead">GNOME is developed by The GNOME Project, part of the GNU Project.The GNOME Project is composed of both volunteers and paid contributors, the largest corporate contributor being Red Hat.GNOME was originally an acronym for GNU Network Object Model Environment.</p>
+            <p class="lead">LibreOffice Writer is the free and open-source word processor component of the LibreOffice software package and is a fork of OpenOffice.org Writer. Writer is a word processor similar to Microsoft Word and Corel's WordPerfect with many similar features, and file format compatibility.</p>
           </div>
           <div class="col-lg-4 mr-auto">
-            <p class="lead">It is an international project that aims to develop software frameworks for the development of software, to program end-user applications based on these frameworks, and to coordinate efforts for internationalization and localization and accessibility of that software.</p>
+            <p class="lead">Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
           </div>
         </div>
         <div class="text-center mt-4">
-          <a class="btn btn-xl btn-outline-light" href="https://www.gnome.org/">
+          <a class="btn btn-xl btn-outline-light" href="#">
             <i class="fas fa-download mr-2"></i>
-            Go To Site
+            Link to theit site 
           </a>
         </div>
       </div>
@@ -133,10 +133,9 @@
           <div class="col-lg-8 mx-auto">
             <!-- To configure the links form email address, go to mail/links_me.php and update the email address in the PHP file on line 19. -->
  <ul>
-  <li><a href="https://commons.wikimedia.org/wiki/File:GNOME_Shell.png">GNOME screenshot 1</li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:GNOME_3.20.3_aktivitetsoversikt.png">GNOME screenshot 2</li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:GNOME_Shell_-_Applications_menu_(v3.22).png">GNOME Screenshot 3</li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:Gnomelogo-footprint.svg">LOGO</li>
+  <li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/LibreOffice_Writer_icon_3.3.1_48_px.svg/853px-LibreOffice_Writer_icon_3.3.1_48_px.svg.png">LibreOffice Writter Logo</a></li>
+  <li><a href="https://upload.wikimedia.org/wikipedia/commons/5/5b/LibreOffice_4.2_Logo.png">LibreOffice Logo</li>
+  <li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/LibreOffice_6.1_Impress_Icon.svg/2000px-LibreOffice_6.1_Impress_Icon.svg.png">LibreOffice Impress Logo</a></li>
 </ul> 
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
               </div>

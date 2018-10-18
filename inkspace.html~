@@ -55,10 +55,10 @@
     <!-- Header -->
     <header class="masthead bg-primary text-white text-center">
       <div class="container">
-        <img class="img-fluid mb-5 d-block mx-auto" src="img/gnome-logo3.png" alt="">
-        <h1 class="text-uppercase mb-0">GNOME</h1>
+        <img class="img-fluid mb-5 d-block mx-auto" src="img/200px-Inkscape.logo.svg.png" alt="">
+        <h1 class="text-uppercase mb-0">Inkspace</h1>
         <hr class="star-light">
-        <h2 class="font-weight-light mb-0">GNU Network Object Model Environment</h2>
+        <h2 class="font-weight-light mb-0">Inkscape is a free and open-source vector graphics editor.It can be used to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings. Inkscape's primary vector graphics format is Scalable Vector Graphics (SVG); however, many other formats can be imported and exported</h2>
       </div>
     </header>
 
@@ -75,7 +75,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/act1.png" alt="">
+              <img class="img-fluid" src="img/portfolio/large1.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -85,7 +85,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/act2.png" alt="">
+              <img class="img-fluid" src="img/portfolio/Inkscape_0.48.2_with_librsvg_workarounds.svg.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -95,7 +95,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/act3.png" alt="">
+              <img class="img-fluid" src="img/portfolio/large.png" alt="">
             </a>
           </div>
         </div>
@@ -109,16 +109,16 @@
         <hr class="star-light mb-5">
         <div class="row">
           <div class="col-lg-4 ml-auto">
-            <p class="lead">GNOME is developed by The GNOME Project, part of the GNU Project.The GNOME Project is composed of both volunteers and paid contributors, the largest corporate contributor being Red Hat.GNOME was originally an acronym for GNU Network Object Model Environment.</p>
+            <p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
           </div>
           <div class="col-lg-4 mr-auto">
-            <p class="lead">It is an international project that aims to develop software frameworks for the development of software, to program end-user applications based on these frameworks, and to coordinate efforts for internationalization and localization and accessibility of that software.</p>
+            <p class="lead">Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
           </div>
         </div>
         <div class="text-center mt-4">
-          <a class="btn btn-xl btn-outline-light" href="https://www.gnome.org/">
+          <a class="btn btn-xl btn-outline-light" href="#">
             <i class="fas fa-download mr-2"></i>
-            Go To Site
+            Link to theit site 
           </a>
         </div>
       </div>
@@ -133,10 +133,12 @@
           <div class="col-lg-8 mx-auto">
             <!-- To configure the links form email address, go to mail/links_me.php and update the email address in the PHP file on line 19. -->
  <ul>
-  <li><a href="https://commons.wikimedia.org/wiki/File:GNOME_Shell.png">GNOME screenshot 1</li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:GNOME_3.20.3_aktivitetsoversikt.png">GNOME screenshot 2</li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:GNOME_Shell_-_Applications_menu_(v3.22).png">GNOME Screenshot 3</li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:Gnomelogo-footprint.svg">LOGO</li>
+  <li>https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjzooea9oLeAhVZWisKHUNSATMQjRx6BAgBEAU&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInkscape.logo.svg&psig=AOvVaw2s7iyN8moNCxgjzuPdREp4&ust=1539503126990366"></li>
+  <li>https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi89P6ZhoPeAhXCro8KHTcJCaUQjRx6BAgBEAU&url=https%3A%2F%2Fscreenshots.debian.net%2Fpackage%2Finkscape&psig=AOvVaw3PSdTxMJR-_sxbRnwi7qhh&ust=1539507414345741</li>
+  <li>https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwio9tOuhoPeAhXLQo8KHazyA9sQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWikipedia%3AFeatured_picture_candidates%2FInkscape_0.48.2_SVG_screenshots&psig=AOvVaw3PSdTxMJR-_sxbRnwi7qhh&ust=1539507414345741
+</li>
+<li>https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwit3umHh4PeAhUHvY8KHbBBBHcQjRx6BAgBEAU&url=https%3A%2F%2Fscreenshots.debian.net%2Fpackage%2Finkscape&psig=AOvVaw3PSdTxMJR-_sxbRnwi7qhh&ust=1539507414345741</li>
+<li>https://en.wikipedia.org/wiki/Inkscape</li>
 </ul> 
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
               </div>

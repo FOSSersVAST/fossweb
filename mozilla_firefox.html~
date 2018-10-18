@@ -55,10 +55,10 @@
     <!-- Header -->
     <header class="masthead bg-primary text-white text-center">
       <div class="container">
-        <img class="img-fluid mb-5 d-block mx-auto" src="img/gnome-logo3.png" alt="">
-        <h1 class="text-uppercase mb-0">GNOME</h1>
+        <img class="img-fluid mb-5 d-block mx-auto" src="img/1.jpeg" alt="">
+        <h1 class="text-uppercase mb-0">Mozilla firefox</h1>
         <hr class="star-light">
-        <h2 class="font-weight-light mb-0">GNU Network Object Model Environment</h2>
+        <h2 class="font-weight-light mb-0">Firefox gives users a cleaner interface and faster download speeds</h2>
       </div>
     </header>
 
@@ -75,7 +75,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/act1.png" alt="">
+              <img class="img-fluid" src="img/portfolio/Firefox_Screenshot.PNG" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -85,7 +85,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/act2.png" alt="">
+              <img class="img-fluid" src="img/portfolio/Firefox_Screenshot1.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -95,7 +95,7 @@
                   <i class="fas fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/act3.png" alt="">
+              <img class="img-fluid" src="img/portfolio/image.png" alt="">
             </a>
           </div>
         </div>
@@ -109,16 +109,16 @@
         <hr class="star-light mb-5">
         <div class="row">
           <div class="col-lg-4 ml-auto">
-            <p class="lead">GNOME is developed by The GNOME Project, part of the GNU Project.The GNOME Project is composed of both volunteers and paid contributors, the largest corporate contributor being Red Hat.GNOME was originally an acronym for GNU Network Object Model Environment.</p>
+            <p class="lead">Mozilla Firefox (or simply Firefox) is a free and open-source web browser developed by Mozilla Foundation and its subsidiary, Mozilla Corporation. Firefox is available for Windows, macOS, Linux, and BSD operating systems.</p>
           </div>
           <div class="col-lg-4 mr-auto">
-            <p class="lead">It is an international project that aims to develop software frameworks for the development of software, to program end-user applications based on these frameworks, and to coordinate efforts for internationalization and localization and accessibility of that software.</p>
+            <p class="lead"> Firefox uses the Gecko layout engine to render web pages, which implements current and anticipated web standards.Firefox began incorporating new technology under the code name Quantum to promote parallelism and a more intuitive user interface</p>
           </div>
         </div>
         <div class="text-center mt-4">
-          <a class="btn btn-xl btn-outline-light" href="https://www.gnome.org/">
+          <a class="btn btn-xl btn-outline-light" href="#">
             <i class="fas fa-download mr-2"></i>
-            Go To Site
+            Link to theit site 
           </a>
         </div>
       </div>
@@ -133,10 +133,9 @@
           <div class="col-lg-8 mx-auto">
             <!-- To configure the links form email address, go to mail/links_me.php and update the email address in the PHP file on line 19. -->
  <ul>
-  <li><a href="https://commons.wikimedia.org/wiki/File:GNOME_Shell.png">GNOME screenshot 1</li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:GNOME_3.20.3_aktivitetsoversikt.png">GNOME screenshot 2</li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:GNOME_Shell_-_Applications_menu_(v3.22).png">GNOME Screenshot 3</li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:Gnomelogo-footprint.svg">LOGO</li>
+  <li><a href="https://img00.deviantart.net/580f/i/2015/023/6/5/linux_mint_mate_v17_1_desktop_custom_firefox_by_paradigm_shifting-d8f2h0z.png">Firefox Screenshot start page</a> </li>
+  <li><a href="https://upload.wikimedia.org/wikipedia/commons/6/63/Firefox_Screenshot.PNG">Firefox screenshot using wikipedia</a> </li>
+  <li><a href="https://upload.wikimedia.org/wikipedia/commons/b/b5/Screenshot_Mozilla_Firefox_7_su_Windows_7.png">Firefox screenshot</a> </li>
 </ul> 
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
               </div>
