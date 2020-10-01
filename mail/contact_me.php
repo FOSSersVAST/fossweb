@@ -5,10 +5,10 @@ if(empty($_POST['name']) || empty($_POST['email']) || empty($_POST['phone']) || 
   exit();
 }
 
-$name = strip_tags(htmlspecialchars($_POST['name']));
-$email = strip_tags(htmlspecialchars($_POST['email']));
-$phone = strip_tags(htmlspecialchars($_POST['phone']));
-$message = strip_tags(htmlspecialchars($_POST['message']));
+$Name = strip_tags(htmlspecialchars($_POST['Name']));
+$My email = strip_tags(htmlspecialchars($_POST['My email']));
+$phone number = strip_tags(htmlspecialchars($_POST['phone number']));
+$message me = strip_tags(htmlspecialchars($_POST['message me']));
 
 // Create the email and send the message
 $to = "yourname@yourdomain.com"; // Add your email address inbetween the "" replacing yourname@yourdomain.com - This is where the form will send a message to.
